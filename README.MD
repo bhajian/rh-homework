@@ -1,9 +1,9 @@
 # OpenShift Advanced Development Homework
 
-- GUID: 6b1d
-- REPO: https://github.com/BennyChenChuhui/advdev_homework_template.git
+- GUID: 23df
+- REPO: https://github.com/bhajian/rh-homework.git
 - CLUSTER: na311.openshift.opentlc.com
-- USER: chuchen-redhat.com
+- USER: bhajian-redhat.com
 - CONSOLE: https://master.na311.openshift.opentlc.com
 
 # Running Result is as follows.
